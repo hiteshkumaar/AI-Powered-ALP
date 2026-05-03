@@ -56,6 +56,6 @@ Copy `.env.example` to `.env` and adjust:
 
 ## Notes
 
-- If `OPENAI_API_KEY` is not set, AI recommendations fall back to a safe deterministic default response.
+- If `GEMINI_API_KEY` is not set, AI recommendations fall back to a safe deterministic default response.
 - This repo uses server components where appropriate (dashboard/plan pages) and client components for interactive forms.
 
